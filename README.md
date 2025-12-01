@@ -18,14 +18,10 @@ This section will be updated as competitions are added to the repository.
 
 ## Repository Structure
 
-Each competition will be organized in its own directory with the following structure:
+There is no structure
 ```
-competition-name/
-├── data/              # Data files (if permitted)
-├── notebooks/         # Jupyter notebooks for exploration and modeling
-├── src/              # Source code
-├── models/           # Trained model files
-└── README.md         # Competition-specific documentation
+notebooks
+readme.md
 ```
 
 ## Getting Started
