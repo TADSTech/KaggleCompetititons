@@ -11,10 +11,10 @@ This repository contains code, notebooks, and documentation from my participatio
 This section will be updated as competitions are added to the repository.
 
 ### Completed Competitions
-*No competitions added yet*
+[Ensemble Powered Loan Payback Prediction](https://www.kaggle.com/code/miclenzy/ensemble-powered-loan-payback-prediction)
 
 ### In Progress
-*None*
+[Titanic Survival rate prediction](https://www.kaggle.com/code/miclenzy/tads-titanic-predictions)
 
 ## Repository Structure
 
